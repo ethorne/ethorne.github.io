@@ -2,39 +2,172 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Words by ET</title>
-    <description>This is where I write things.
+    <description>Maker of software, rider of bicycles, lover of handmade things.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Jan 2019 17:01:05 -0800</pubDate>
-    <lastBuildDate>Fri, 18 Jan 2019 17:01:05 -0800</lastBuildDate>
+    <pubDate>Mon, 21 Jan 2019 15:49:44 -0800</pubDate>
+    <lastBuildDate>Mon, 21 Jan 2019 15:49:44 -0800</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>CODE Technology</title>
+        <description>&lt;h1 id=&quot;chops-as-a-software-engineer&quot;&gt;Chops as a Software Engineer&lt;/h1&gt;
+&lt;p&gt;Working at CODE was fast paced, but highly calculated. Small team size forced
+all of us to wear many hats and work quickly, while the high volume of patient
+data stressed tight security and strict compliance.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Developing alongside just a few individuals had me interacting with all parts
+of the software stack on a daily basis, not to mention the continuous
+integration process. Being the first among a group of new-hires granted me
+invaluable experience in helping mitigate the growing pains of a small business.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;My most notable project at CODE had me touching nearly all parts of the code
+base in a large scale refactor of our data model. The creation of scope of work
+and plan of action took me nearly a month by itself! In the end I bolstered my
+knowledge of design patterns and gained indispensible experience with the myriad
+challenges that a refactor of that scale entails.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Towards the end of my time at CODE I was working heavily in dev-ops, maintaining
+a robust suite of in-house tools (primarily Ansible playbooks, bash scripts, and
+python scripts) left over from the co-founder. At the time that I inherited this
+responsiblity I understood just enough about that stack to operate in the
+environment. As soon as I had to begin troubleshooting, which is an
+inevitability, I realized I was in over my head. That is the exact environment I
+thrive in! Before I knew it I was fixing broken deployement processes and even
+augmenting them, making them easier to work with or more fault tolerant. I
+conquered the feeling of being overwhelmed, honed my skills with AWS, and
+deepened my knowledge of linux systems.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I walked away from CODE with strong back end development skills in Java,
+general proficiency with AWS networks, and the ability to live and breathe in
+the Ubuntu command line. More importantly, I now feel a high level of comfort
+being responsible for vast amounts of sensitive data.&lt;/p&gt;
+
+&lt;h1 id=&quot;more-about-the-company&quot;&gt;More About the Company&lt;/h1&gt;
+&lt;p&gt;Collecting Patient Reported Outcomes is crucial for evidence based medicine, but
+it is too arduous a task for doctors, nurses, and clinicians to do themselves.
+CODE collects outcomes directly from the patient, effectively delivering the
+data and analytics that doctors need without disturbing their day-to-day work.
+Check out the awesome work CODE does on &lt;a href=&quot;https://www.codetechnology.com/&quot;&gt;their
+website&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/07/01/code-technology.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/01/code-technology.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Institute for Inner Peace and Harmony</title>
+        <description>&lt;h1 id=&quot;journey-within&quot;&gt;Journey Within&lt;/h1&gt;
+&lt;p&gt;Mindfulness-based empowerment expert Arda Ozdemir designed a mobile application,
+Journey Within, which was predicated on the notion that self-reflection is the
+best tool for tranquility and healing&lt;/p&gt;
+
+&lt;h1 id=&quot;app-flow&quot;&gt;App Flow&lt;/h1&gt;
+&lt;p&gt;The application lead user’s to a guided meditation that was suited for their
+particular situation. User’s would state how they are feeling and what they are
+struggling with in order to arrive at the meditation recording. The fundamental
+concept here was to invoke self-reflection for the user as they moved through
+the application.&lt;/p&gt;
+
+&lt;h1 id=&quot;development&quot;&gt;Development&lt;/h1&gt;
+&lt;p&gt;I was tasked with designing and building out the back end. The rest API served
+JSON data to the iOS client via HTTP. The tricky part of the development process
+was streamlining data manipulation for the client.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Mar 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017/03/01/ifiph.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/01/ifiph.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Public Radio International</title>
+        <description>&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;I lead a team of engineers to develop a plugin for Medium Editor to be used by
+the writers and editors of Public Radio International. I also designed the
+structure of the plugin and lead development team in the implementation of it.&lt;/p&gt;
+
+&lt;h1 id=&quot;development&quot;&gt;Development&lt;/h1&gt;
+&lt;p&gt;The plugin was essentially a modal window that would launch within the editor
+and allow insertion of stylized media types. JQuery was the primary language
+used for development. The plugin allowed writers and editors to create content
+for PRI in a what-you-see-is-what-you-get manner. This entailed interaction with
+social media API’s as well as other media sources like Vimeo or YouTube.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jun 2016 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2016/06/01/pri.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/06/01/pri.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>DatStat</title>
+        <description>&lt;h1 id=&quot;a-budding-software-developer&quot;&gt;A Budding Software Developer&lt;/h1&gt;
+&lt;p&gt;This was my entry into the world of professional software development. I got a
+job at DatStat by convincing the good people there that I’m a quick learner!
+They made me put my money where my mouth was with a project-based interview.
+That project was my first exposure to SQL databases, MVC architecture, and C#
+(which I don’t care for too much these days, more on that later). I rose to the
+challenge and had a great time doing so!&lt;/p&gt;
+
+&lt;p&gt;Initially I had pretty bad &lt;a href=&quot;https://en.wikipedia.org/wiki/Impostor_syndrome&quot;&gt;imposter
+syndrome&lt;/a&gt; working at DatStat,
+being the youngest person in the office and only having taken two computer
+science classes (one of which was in highschool almost 4 years prior). These
+fears were regularly quelled my boss each time we did performance reviews.
+Inbetween reviews the fear kept me vigilant. I kept a list of “stuff you don’t
+know that you should know,” containing tools, phrases, concepts, or anything
+that I would hear around the office and not know. (These days I keep this list
+for all projects, calling it SYDKBYSK). Each night I would study the items on
+the list with the little time I had between homework and the million other
+things that I tried do while in college.&lt;/p&gt;
+
+&lt;p&gt;Being able to apply the concepts I learned in school directly to my work at
+DatStat was a tremendous way to cement them in my mind and also learn their
+significance in the industry. Before long I found that my coding proficiency and
+my ability to contextualize the theoretical world of academia with the practical
+world of software development exceeded most of my classmates.&lt;/p&gt;
+
+&lt;h1 id=&quot;work-and-experience&quot;&gt;Work and Experience&lt;/h1&gt;
+&lt;p&gt;Working at DatStat had me building out custom reports for various clients, as
+well as integrating their hardware and/ or software with our platform. I also
+saw the company build two products from the ground up in an attempt to replace
+an existing product providing invaluable experience from an architectural and
+business standpoint. Later in my time there we underwent a massive operations
+overhaul. Seeing our internal process restructured and fine tuning that process
+was similarly educational.&lt;/p&gt;
+
+&lt;p&gt;DatStat’s software stack was mostly Microsoft-based (which I do not prefer these
+days, but I’m no hater). The more important lessons learned from working there
+were higher level: how to architecture practical software, how to navigate
+legacy code, how to triage issues, and how to allocate time among the
+constituents of a software development team.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Mar 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2016/03/01/datstat.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/03/01/datstat.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Résumé</title>
+        <description>&lt;p&gt;Download a PDF of my resume &lt;a href=&quot;http://localhost:4000/_img/et_resume_2018.pdf&quot;&gt;here&lt;/a&gt;
+or sit tight and enjoy this preview.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/_img/et_resume_2018.jpg&quot; alt=&quot;resume&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 18 Jan 2019 16:35:26 -0800</pubDate>
-        <link>http://localhost:4000/jekyll/update/2019/01/18/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2019/01/18/welcome-to-jekyll.html</guid>
+        <pubDate>Sat, 01 Jan 2000 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2000/01/01/resume.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2000/01/01/resume.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
