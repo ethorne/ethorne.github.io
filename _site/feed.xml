@@ -4,10 +4,10 @@
     <title>Words by ET</title>
     <description>Maker of software, rider of bicycles, lover of handmade things.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Jan 2019 16:54:17 -0800</pubDate>
-    <lastBuildDate>Mon, 21 Jan 2019 16:54:17 -0800</lastBuildDate>
+    <link>http://www.erikthorne.com/</link>
+    <atom:link href="http://www.erikthorne.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 21 Jan 2019 17:01:59 -0800</pubDate>
+    <lastBuildDate>Mon, 21 Jan 2019 17:01:59 -0800</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -20,17 +20,17 @@
 time to accomplish them. Whatever though, thats a lame excuse for inaction.&lt;/p&gt;
 
 &lt;p&gt;For now this site exists primarily as an online
-&lt;a href=&quot;http://localhost:4000/2019/01/01/resume.html&quot;&gt;résumé&lt;/a&gt;, but there’s so much more to come!&lt;/p&gt;
+&lt;a href=&quot;http://www.erikthorne.com/2019/01/01/resume.html&quot;&gt;résumé&lt;/a&gt;, but there’s so much more to come!&lt;/p&gt;
 
 &lt;p&gt;I’m interested in getting more involved in network security and what that even
-means. So as I explore that world, I’ll make sure to post things that I have
-done that are (potentially) interesting.&lt;/p&gt;
+means. So as I explore that world I’ll make sure to post things that I have done
+that are interesting.&lt;/p&gt;
 
 &lt;p&gt;The things you can most expect on this site in the near future are posts about
-my &lt;a href=&quot;https://github.com/ethorne/dotfiles&quot;&gt;dotfile repository&lt;/a&gt;. I have a lot of
+my &lt;a href=&quot;https://github.com/ethorne/dotfiles&quot;&gt;dotfiles repository&lt;/a&gt;. I have a lot of
 stuff on there that I think is pretty clever (/brushesoffshoulder), and I’d love
 to share it with whatever nerd wants to listen. Now I just have to find the
-time…&lt;/p&gt;
+time to write all that…&lt;/p&gt;
 
 &lt;h1 id=&quot;what-keeps-me-busy&quot;&gt;What keeps me busy&lt;/h1&gt;
 &lt;h2 id=&quot;computers&quot;&gt;Computers&lt;/h2&gt;
@@ -40,7 +40,8 @@ Sometimes its a “I wonder how hard this would be” kind of thought, and other
 times its a “I could do that so much better” thought. I run Ubuntu 18.04 as my
 personal OS, I stream my music off a plex library which I have hosted off a
 frankenserver at my apartment, and I’ve got a million-and-a-half
-questionably-finished projects with Raspberry Pi and Arduino platforms.&lt;/p&gt;
+questionably-finished projects with Raspberry Pi and Arduino platforms. Wanna
+work on something together? Toss me a line, I’d at least like to chat about it.&lt;/p&gt;
 
 &lt;h2 id=&quot;biking&quot;&gt;Biking&lt;/h2&gt;
 &lt;p&gt;Since I was a kid I’ve always loved biking. I never did it on any kind of team,
@@ -54,12 +55,12 @@ I always told myself that I would travel after graduating. This seemed like the
 perfect opportunity, and those don’t always come around twice! I headed out of
 New York City at the beginning of June. Fifteen days later I was in Chicago!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/_img/et_bike_chicago.jpg&quot; alt=&quot;knoxville&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.erikthorne.com/_img/et_bike_chicago.jpg&quot; alt=&quot;knoxville&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;After hanging out for a bit with some friends, I took a Greyhound bus to
 Knoxville, TN where this lovely picture of me was shot:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/_img/et_bike_knoxville.jpg&quot; alt=&quot;knoxville&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.erikthorne.com/_img/et_bike_knoxville.jpg&quot; alt=&quot;knoxville&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Then I headed down a less-than-straightforward path to St. Augustine, FL where I
 met up with some family to relax after what ended up being ~2,000 miles of
@@ -77,7 +78,7 @@ all that, right?&lt;/p&gt;
 less impressive things to share. Here’s a shot of me being a grease-ball in the
 City of Rocks, ID.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/_img/et_city_of_rocks.jpg&quot; alt=&quot;knoxville&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.erikthorne.com/_img/et_city_of_rocks.jpg&quot; alt=&quot;knoxville&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;sewing&quot;&gt;Sewing&lt;/h2&gt;
 
@@ -87,8 +88,8 @@ category is increasing each year! Someday I would love to make all my own
 clothes (at least the casual-wear ones) and all my own bike bags.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Jan 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2019/01/21/welcome.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/01/21/welcome.html</guid>
+        <link>http://www.erikthorne.com/2019/01/21/welcome.html</link>
+        <guid isPermaLink="true">http://www.erikthorne.com/2019/01/21/welcome.html</guid>
         
         
       </item>
@@ -136,8 +137,8 @@ Check out the awesome work CODE does on &lt;a href=&quot;https://www.codetechnol
 website&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/07/01/code-technology.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/07/01/code-technology.html</guid>
+        <link>http://www.erikthorne.com/2018/07/01/code-technology.html</link>
+        <guid isPermaLink="true">http://www.erikthorne.com/2018/07/01/code-technology.html</guid>
         
         
       </item>
@@ -162,8 +163,8 @@ JSON data to the iOS client via HTTP. The tricky part of the development process
 was streamlining data manipulation for the client.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Mar 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2017/03/01/ifiph.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/03/01/ifiph.html</guid>
+        <link>http://www.erikthorne.com/2017/03/01/ifiph.html</link>
+        <guid isPermaLink="true">http://www.erikthorne.com/2017/03/01/ifiph.html</guid>
         
         
       </item>
@@ -183,8 +184,8 @@ for PRI in a what-you-see-is-what-you-get manner. This entailed interaction with
 social media API’s as well as other media sources like Vimeo or YouTube.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jun 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2016/06/01/pri.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/06/01/pri.html</guid>
+        <link>http://www.erikthorne.com/2016/06/01/pri.html</link>
+        <guid isPermaLink="true">http://www.erikthorne.com/2016/06/01/pri.html</guid>
         
         
       </item>
@@ -233,23 +234,23 @@ legacy code, how to triage issues, and how to allocate time among the
 constituents of a software development team.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Mar 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2016/03/01/datstat.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/03/01/datstat.html</guid>
+        <link>http://www.erikthorne.com/2016/03/01/datstat.html</link>
+        <guid isPermaLink="true">http://www.erikthorne.com/2016/03/01/datstat.html</guid>
         
         
       </item>
     
       <item>
         <title>Résumé</title>
-        <description>&lt;p&gt;Download a PDF of my resume &lt;a href=&quot;http://localhost:4000/_img/et_resume_2018.pdf&quot;&gt;here&lt;/a&gt;
+        <description>&lt;p&gt;Download a PDF of my resume &lt;a href=&quot;http://www.erikthorne.com/_img/et_resume_2018.pdf&quot;&gt;here&lt;/a&gt;
 or sit tight and enjoy this preview.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/_img/et_resume_2018.jpg&quot; alt=&quot;resume&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.erikthorne.com/_img/et_resume_2018.jpg&quot; alt=&quot;resume&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 01 Jan 2000 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2000/01/01/resume.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2000/01/01/resume.html</guid>
+        <link>http://www.erikthorne.com/2000/01/01/resume.html</link>
+        <guid isPermaLink="true">http://www.erikthorne.com/2000/01/01/resume.html</guid>
         
         
       </item>
