@@ -6,9 +6,92 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Jan 2019 15:49:44 -0800</pubDate>
-    <lastBuildDate>Mon, 21 Jan 2019 15:49:44 -0800</lastBuildDate>
+    <pubDate>Mon, 21 Jan 2019 16:54:17 -0800</pubDate>
+    <lastBuildDate>Mon, 21 Jan 2019 16:54:17 -0800</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Welcome!</title>
+        <description>&lt;h1 id=&quot;what-is-this-place&quot;&gt;What is this place?&lt;/h1&gt;
+
+&lt;p&gt;Hello friend! I’m glad you stumbled across my tiny site.&lt;/p&gt;
+
+&lt;p&gt;My name is Erik and I have way more things that I want to accomplish than I have
+time to accomplish them. Whatever though, thats a lame excuse for inaction.&lt;/p&gt;
+
+&lt;p&gt;For now this site exists primarily as an online
+&lt;a href=&quot;http://localhost:4000/2019/01/01/resume.html&quot;&gt;résumé&lt;/a&gt;, but there’s so much more to come!&lt;/p&gt;
+
+&lt;p&gt;I’m interested in getting more involved in network security and what that even
+means. So as I explore that world, I’ll make sure to post things that I have
+done that are (potentially) interesting.&lt;/p&gt;
+
+&lt;p&gt;The things you can most expect on this site in the near future are posts about
+my &lt;a href=&quot;https://github.com/ethorne/dotfiles&quot;&gt;dotfile repository&lt;/a&gt;. I have a lot of
+stuff on there that I think is pretty clever (/brushesoffshoulder), and I’d love
+to share it with whatever nerd wants to listen. Now I just have to find the
+time…&lt;/p&gt;
+
+&lt;h1 id=&quot;what-keeps-me-busy&quot;&gt;What keeps me busy&lt;/h1&gt;
+&lt;h2 id=&quot;computers&quot;&gt;Computers&lt;/h2&gt;
+
+&lt;p&gt;I love cooking up my own solutions with whatever tools I have at my disposal.
+Sometimes its a “I wonder how hard this would be” kind of thought, and other
+times its a “I could do that so much better” thought. I run Ubuntu 18.04 as my
+personal OS, I stream my music off a plex library which I have hosted off a
+frankenserver at my apartment, and I’ve got a million-and-a-half
+questionably-finished projects with Raspberry Pi and Arduino platforms.&lt;/p&gt;
+
+&lt;h2 id=&quot;biking&quot;&gt;Biking&lt;/h2&gt;
+&lt;p&gt;Since I was a kid I’ve always loved biking. I never did it on any kind of team,
+or really in any organized manner, but I started building and working on bikes
+with my brothers around the time I was in junior-high.&lt;/p&gt;
+
+&lt;p&gt;This summer I found myself in between jobs with a chunk of change, a friend
+willing to sublet my apartment, and an irresistible urge to bike day-in and
+day-out for as long as I reasonably could. I never studied abroad in College and
+I always told myself that I would travel after graduating. This seemed like the
+perfect opportunity, and those don’t always come around twice! I headed out of
+New York City at the beginning of June. Fifteen days later I was in Chicago!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/_img/et_bike_chicago.jpg&quot; alt=&quot;knoxville&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After hanging out for a bit with some friends, I took a Greyhound bus to
+Knoxville, TN where this lovely picture of me was shot:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/_img/et_bike_knoxville.jpg&quot; alt=&quot;knoxville&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then I headed down a less-than-straightforward path to St. Augustine, FL where I
+met up with some family to relax after what ended up being ~2,000 miles of
+biking.&lt;/p&gt;
+
+&lt;p&gt;I could fill a whole site about the adventures I had along the way, and I could
+write even more about what I learned, but no one wants to hear about all that.
+It was mostly just pedalling and eating as much food as I fit in my stomach.
+There was the occassional life changing moment, but no one wants to hear about
+all that, right?&lt;/p&gt;
+
+&lt;h2 id=&quot;climbing&quot;&gt;Climbing&lt;/h2&gt;
+
+&lt;p&gt;I’ve been climbing rocks for almost as long as I’ve been biking, but I have way
+less impressive things to share. Here’s a shot of me being a grease-ball in the
+City of Rocks, ID.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/_img/et_city_of_rocks.jpg&quot; alt=&quot;knoxville&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sewing&quot;&gt;Sewing&lt;/h2&gt;
+
+&lt;p&gt;There will be much more to come on this. Suffice to say I do not like buying new
+things if I think I can make them. The number of things that fall into that
+category is increasing each year! Someday I would love to make all my own
+clothes (at least the casual-wear ones) and all my own bike bags.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Jan 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2019/01/21/welcome.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/21/welcome.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>CODE Technology</title>
