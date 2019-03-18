@@ -42,7 +42,7 @@ with my brothers around the time I was in junior-high.
 
 In the Summer of 2018, I found myself with ample time, as I had recently decided
 to leave CODE, and more than enough stoke for bike touring. I never studied
-abroad in College and have always wanted to see more of the US. This seemed like
+abroad in college and have always wanted to see more of the US. This seemed like
 the perfect opportunity, and those don't always come around twice! I headed out
 of New York City at the beginning of June. Fifteen days later I was in Chicago!
 
@@ -58,17 +58,16 @@ Then I headed down a less-than-straightforward path to St. Augustine, FL where I
 met up with some family to relax after what ended up being ~2,000 miles of
 biking.
 
-I could fill a whole site about the adventures I had along the way, and I could
-write even more about what I learned, but no one wants to hear about all that.
-It was mostly just pedalling and eating as much food as I fit in my stomach.
-There was the occassional life changing moment, but no one wants to hear about
-all that, right?
+I could fill a whole site about the adventures I had along the way, but no one 
+wants to hear about all that... right? Maybe someday I'll get around to writing
+a bit about this trip, but probably not. In the end it was much more impactful
+of an experience that it would be as a story.
 
 ### Climbing
 
 I've been climbing rocks for almost as long as I've been biking, but I have way
-less impressive things to share. Here's a shot of me being a grease-ball in the
-City of Rocks, ID.
+less impressive things to share. Here's a shot of me learning how to climb trad
+in City of Rocks, ID.
 
 ![knoxville]({{site.url}}/_img/et_city_of_rocks.jpg){: .center-image }
 
@@ -77,4 +76,5 @@ City of Rocks, ID.
 There will be much more to come on this. Suffice to say I do not like buying new
 things if I think I can make them. The number of things that fall into that
 category is increasing each year! Someday I would love to make all my own
-clothes (at least the casual-wear ones) and all my own bike bags.
+clothes (at least the casual-wear ones) and my own bags (especially for my
+bike).
