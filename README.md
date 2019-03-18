@@ -1,6 +1,6 @@
 # Personal Site
 ## Where can I find this site?
-[here](https://www.erikthorne.com)
+[here](www.erikthorne.com)
 
 ## Thanks to
 - The developers at [jekyll](https://jekyllrb.com/) for enabling me to not write
