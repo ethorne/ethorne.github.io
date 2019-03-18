@@ -14,7 +14,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.erikthorne.com" # the base hostname & protocol for your site
 github_username:   ethorne
 linkedin_username: e-thorne
-resume_page: "2000/01/01/resume.html"
+permalink:
+collections_dir: collections
+collections:
+  index:
+    output: true
+  career:
+    output: true
+  pages:
+    output: true
 
 # Build settings
 include:

@@ -4,7 +4,7 @@ created: 2019-01-21
 title:   "Welcome!"
 ---
 
-# What is this place?
+## What is this place?
 
 Hello friend! I'm glad you stumbled across my tiny site.
 
@@ -12,7 +12,7 @@ My name is Erik and I have way more things that I want to accomplish than I have
 time to accomplish them. Whatever though, thats a lame excuse for inaction.
 
 For now this site exists primarily as an online
-[résumé]({{site.url}}/{{site.resume_page}}), but there's so much more to come!
+[resume]({{site.url}}/pages/resume.html}}), but there's so much more to come!
 
 I'm interested in getting more involved in network security and what that even
 means. So as I explore that world I'll make sure to post things that I have done
@@ -25,9 +25,8 @@ to share it with whatever nerd wants to listen. Now I just have to find the
 time to write all that...
 
 
-# What keeps me busy
-## Computers
-
+## What keeps me busy
+### Computers
 I love cooking up my own solutions with whatever tools I have at my disposal.
 Sometimes it's a "I wonder how hard this would be" kind of thought, and other
 times it's a "I could do that so much better" thought. I run Ubuntu 18.04 as my
@@ -36,7 +35,7 @@ frankenserver at my apartment, and I've got a million-and-a-half
 questionably-finished projects with Raspberry Pi and Arduino platforms. Wanna
 work on something together? Toss me a line, I'd at least like to chat about it.
 
-## Biking
+### Biking
 Since I was a kid I've always loved biking. I never did it on any kind of team,
 or really in any organized manner, but I started building and working on bikes
 with my brothers around the time I was in junior-high.
@@ -65,7 +64,7 @@ It was mostly just pedalling and eating as much food as I fit in my stomach.
 There was the occassional life changing moment, but no one wants to hear about
 all that, right?
 
-## Climbing
+### Climbing
 
 I've been climbing rocks for almost as long as I've been biking, but I have way
 less impressive things to share. Here's a shot of me being a grease-ball in the
@@ -73,7 +72,7 @@ City of Rocks, ID.
 
 ![knoxville]({{site.url}}/_img/et_city_of_rocks.jpg){: .center-image }
 
-## Sewing
+### Sewing
 
 There will be much more to come on this. Suffice to say I do not like buying new
 things if I think I can make them. The number of things that fall into that

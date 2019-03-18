@@ -1,11 +1,12 @@
 ---
 layout:    employment
-title:     "DatStat"
+company:   "DatStat"
 jobTitle:  "Junior Software Developer"
 startDate: "December 2013"
 endDate:   "February 2016"
 location:  "Seattle, WA"
 empType:   "Full Time / Part Time (working student)"
+order:      1
 ---
 # A Budding Software Developer
 This was my entry into the world of professional software development. I got a

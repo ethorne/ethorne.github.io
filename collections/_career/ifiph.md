@@ -1,11 +1,12 @@
 ---
 layout:    employment
-title:     "Institute for Inner Peace and Harmony"
+company:   "Institute for Inner Peace and Harmony"
 jobTitle:  "Software Developer"
 startDate: "August 2016"
 endDate:   "February 2017"
 location:  "Palo Alto, CA (remote)"
 empType:   "Freelance"
+order:     3 
 ---
 # Journey Within
 Mindfulness-based empowerment expert Arda Ozdemir designed a mobile application,

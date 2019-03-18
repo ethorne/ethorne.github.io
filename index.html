@@ -1,3 +1,16 @@
 ---
 layout: home
 ---
+<div class="block-container">
+  <div class="block">
+    <a href="/pages/about.html">About Me</a>
+  </div>
+</div>
+
+<div class="block-container">
+{% for i in site.index %}
+  <div class="block">
+    <a href="/index/{{i.name}}.html">{{i.title}}</a>
+  </div>
+{% endfor %}
+</div>

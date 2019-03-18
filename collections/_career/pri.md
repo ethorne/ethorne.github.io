@@ -1,11 +1,12 @@
 ---
 layout:    employment
-title:     "Public Radio International"
+company:   "Public Radio International"
 jobTitle:  "Project Architect"
 startDate: "August 2016"
 endDate:   "May 2018"
 location:  "Seattle, WA"
 empType:   "Project"
+order:     2
 ---
 
 # Overview

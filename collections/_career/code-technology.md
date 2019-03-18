@@ -1,11 +1,12 @@
 ---
 layout:    employment
-title:     "CODE Technology"
+company:   "CODE Technology"
 jobTitle:  "Software Engineer"
 startDate: "August 2016"
 endDate:   "May 2018"
 location:  "Seattle, WA"
 empType:   "Full Time"
+order:      4
 ---
 # Chops as a Software Engineer
 Working at CODE was fast paced, but highly calculated. Small team size forced
