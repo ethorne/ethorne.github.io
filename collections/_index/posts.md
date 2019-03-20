@@ -4,4 +4,4 @@ name:   posts
 title:  Blog
 ---
 
-### coming soon!
+<h2 style="text-align:center;">coming soon!</h2>
