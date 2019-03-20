@@ -1,12 +1,11 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-gem "github-pages", group: :jekyll_plugins
+source "https://rubygems.org"
 
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-   gem "jekyll-feed", "~> 0.6"
-end
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+# gem "rails"
 
+gem "jekyll", "~> 3.8"
+
+gem "jekyll-feed", "~> 0.11.0"
