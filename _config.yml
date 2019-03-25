@@ -24,6 +24,8 @@ collections:
     output: true
   pages:
     output: true
+  resources:
+    output: true
 
 # Build settings
 include:
