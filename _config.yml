@@ -12,7 +12,7 @@ email: erik.j.thorne@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Maker of software, rider of bicycles, lover of handmade things.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.erikthorne.com" # the base hostname & protocol for your site
+url: "https://www.erikthorne.com" # the base hostname & protocol for your site
 github_username:   ethorne
 linkedin_username: e-thorne
 permalink:

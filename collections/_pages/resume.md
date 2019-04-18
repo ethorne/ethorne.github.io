@@ -3,7 +3,7 @@ layout:         page
 title:          "Resume"
 resume_preview: "_img/et_resume_2018.jpg"
 resume_pdf:     "_img/et_resume_2018.pdf"
-welcome_url:    "http://erikthorne.com/2019/01/21/welcome.html"
+welcome_url:    "https://erikthorne.com/2019/01/21/welcome.html"
 ---
 Download a PDF of my resume <a href="{{site.url}}/{{page.resume_pdf}}">here</a>
 or sit tight and enjoy this preview.
