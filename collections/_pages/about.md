@@ -12,7 +12,7 @@ My name is Erik and I have way more things that I want to accomplish than I have
 time to accomplish them. Whatever though, thats a lame excuse for inaction.
 
 For now this site exists primarily as an online
-[resume]({{site.url}}/pages/resume.html}}), but there's so much more to come!
+[resume](/pages/resume.html}}), but there's so much more to come!
 
 I'm interested in getting more involved in network security and what that even
 means. So as I explore that world I'll make sure to post things that I have done
@@ -46,13 +46,13 @@ abroad in college and have always wanted to see more of the US. This seemed like
 the perfect opportunity, and those don't always come around twice! I headed out
 of New York City at the beginning of June. Fifteen days later I was in Chicago!
 
-![knoxville]({{site.url}}/_img/et_bike_chicago.jpg){: .center-image }
+![knoxville](/_img/et_bike_chicago.jpg){: .center-image }
 
 After seeing the city, spending time with friends and family, and eating my
 weight in deep dish pizza, I took a Greyhound bus to Knoxville, TN where this
 lovely picture was shot:
 
-![knoxville]({{site.url}}/_img/et_bike_knoxville.jpg){: .center-image }
+![knoxville](/_img/et_bike_knoxville.jpg){: .center-image }
 
 Then I headed down a less-than-straightforward path to St. Augustine, FL where I
 met up with some family to relax after what ended up being ~2,000 miles of
@@ -69,7 +69,7 @@ I've been climbing rocks for almost as long as I've been biking, but I have way
 less impressive things to share. Here's a shot of me learning how to climb trad
 in City of Rocks, ID.
 
-![knoxville]({{site.url}}/_img/et_city_of_rocks.jpg){: .center-image }
+![knoxville](/_img/et_city_of_rocks.jpg){: .center-image }
 
 ### Sewing
 
