@@ -12,7 +12,7 @@ My name is Erik and I have way more things that I want to accomplish than I have
 time to accomplish them. Whatever though, thats a lame excuse for inaction.
 
 For now this site exists primarily as an online
-[resume](/pages/resume.html}}), but there's so much more to come!
+[resume](/pages/resume.html), but there's so much more to come!
 
 I'm interested in getting more involved in network security and what that even
 means. So as I explore that world I'll make sure to post things that I have done
