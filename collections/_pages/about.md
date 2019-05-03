@@ -63,6 +63,20 @@ wants to hear about all that... right? Maybe someday I'll get around to writing
 a bit about this trip, but probably not. In the end it was much more impactful
 of an experience that it would be as a story.
 
+I recorded my ride every day using a bike computer and uploaded the routes to
+a variety of services, including [Ride With GPS](http://ridewithgps.com/). The
+folks there were kind enough to stich them all together for me after I opened a
+support ticket with the intention of using their API to do it myself. Here's the
+route I took from [NYC to Chicago](https://ridewithgps.com/trips/33928846), and
+here's the route I took from [Knoxville to St.
+Augustine](https://ridewithgps.com/trips/33928981). They take a while to load,
+here's a screen grab if you're on mobile or a have a slow connection.
+
+![NYC to Chicago](/_img/nyc_chg.png){: .center-image }
+
+![Knoxville to St. Augustine](/_img/knx_sta.png){: .center-image }
+
+
 ### Climbing
 
 I've been climbing rocks for almost as long as I've been biking, but I have way
