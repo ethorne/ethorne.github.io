@@ -17,7 +17,7 @@ why then go read the post, it won't take long).
 ## What are we doing here...?
 
 Well I can't speak for you, but I am trying to have my cake and eat it too. I
-want a system that fulfills the following:
+want a system that
 
 - is highly (perhaps completely) configurable 
 - has no unwanted bells and whistles
@@ -88,7 +88,7 @@ Or get the options from a script:
 ```
 
 Armed with that knowledge, we can begin writing a script. Let's start by
-defining a function that will get the options from pass:
+defining a function that will get the options from Pass:
 
 ```
 function menu(){
@@ -102,7 +102,7 @@ passwords) and prints them out in a nice format. The `cut -c 3-` removes the
 leading `./` in the file names. The `sed` command replaces any `.gpg` substring
 found at the end of the string with nothing.
 
-Like the documentation says, we can pass that right into Rofi with the `-dmenu`
+Like the documentation says, we can Pass that right into Rofi with the `-dmenu`
 option.
 
 ```
@@ -115,7 +115,7 @@ and `-matching` to make the search fuzzy (because fuzzy searches are great when
 you organize things deeply in subdirectories like I do).
 
 After that, all we have to do is execute the user's choice (if there is any)
-with pass.
+with Pass.
 
 ```
 # user cancelled - bail with no-op
